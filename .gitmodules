@@ -1,3 +1,6 @@
 [submodule "Cloud-Config"]
 	path = Cloud-Config
 	url = git@github.com:AravindNaani/Cloud-Config.git
+[submodule "Security-Service"]
+	path = Security-Service
+	url = git@github.com:AravindNaani/Security-Service.git
