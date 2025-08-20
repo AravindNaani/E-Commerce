@@ -4,3 +4,9 @@
 [submodule "Security-Service"]
 	path = Security-Service
 	url = git@github.com:AravindNaani/Security-Service.git
+[submodule "EurekaServer"]
+	path = EurekaServer
+	url = git@github.com:AravindNaani/EurekaServer.git
+[submodule "GatewayServer"]
+	path = GatewayServer
+	url = git@github.com:AravindNaani/GatewayServer.git
