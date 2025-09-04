@@ -10,3 +10,6 @@
 [submodule "GatewayServer"]
 	path = GatewayServer
 	url = git@github.com:AravindNaani/GatewayServer.git
+[submodule "NotificationService"]
+	path = NotificationService
+	url = git@github.com:AravindNaani/NotificationService.git
